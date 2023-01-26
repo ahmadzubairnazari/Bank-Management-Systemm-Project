@@ -1,0 +1,7 @@
+Asslamu Alikum
+project Name: Bank Management System project.
+in this project we will be able to collect, analyise, Draw diagrams, Draw tables and implement them in oracle and share our files in our github main repository.
+we have weekly plan in this project we will work locally in share our works in github main repositiory.
+our first week work is :
+first we add our group members to github repositiory after we plan to create local branch in each computer.
+I gave there works that should do during the week and share it with me and add them to main repository.
